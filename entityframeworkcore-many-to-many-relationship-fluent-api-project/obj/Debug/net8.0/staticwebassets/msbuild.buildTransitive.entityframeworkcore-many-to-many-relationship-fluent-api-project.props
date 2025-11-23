@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\entityframeworkcore-many-to-many-relationship-fluent-api-project.props" />
+</Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("entityframeworkcore-many-to-many-relationship-fluent-api-project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00ea569a52f05609e0d9dbefbfcf79da5c743b36")]
 [assembly: System.Reflection.AssemblyProductAttribute("entityframeworkcore-many-to-many-relationship-fluent-api-project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("entityframeworkcore-many-to-many-relationship-fluent-api-project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

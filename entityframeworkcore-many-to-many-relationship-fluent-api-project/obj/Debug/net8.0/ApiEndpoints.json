@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "entityframeworkcore_many_to_many_relationship_project.Controllers.TestController",
+    "Method": "AddStudent",
+    "RelativePath": "api/Test/add-student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "entityframeworkcore_many_to_many_relationship_project.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "entityframeworkcore_many_to_many_relationship_project.Controllers.TestController",
+    "Method": "AddStudentSubject",
+    "RelativePath": "api/Test/add-student-subject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentIDSubjectID",
+        "Type": "entityframeworkcore_many_to_many_relationship_fluent_api_project.Models.StudentIDSubjectID",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "entityframeworkcore_many_to_many_relationship_project.Controllers.TestController",
+    "Method": "AddSubject",
+    "RelativePath": "api/Test/add-subject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subject",
+        "Type": "entityframeworkcore_many_to_many_relationship_project.Models.Subject",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "entityframeworkcore_many_to_many_relationship_project.Controllers.TestController",
+    "Method": "GetStudents",
+    "RelativePath": "api/Test/get-students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "entityframeworkcore_many_to_many_relationship_project.Controllers.TestController",
+    "Method": "GetStudentSubjects",
+    "RelativePath": "api/Test/get-students-subjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "entityframeworkcore_many_to_many_relationship_project.Controllers.TestController",
+    "Method": "GetSubjects",
+    "RelativePath": "api/Test/get-subjects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
